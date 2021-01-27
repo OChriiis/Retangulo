@@ -1,0 +1,13 @@
+package br.com.empresa;
+
+import com.br.empresa.model.Retangulo;
+
+public class App {
+
+	public static void main(String[] args) {
+		
+		Retangulo
+
+	}
+
+}
